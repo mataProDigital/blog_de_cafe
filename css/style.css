@@ -76,4 +76,11 @@ padding: 0;
   height: 60rem;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center center; /* cuando usamos cover usaremos 2 center */
+}
+
+.heder__texto{
+  text-align: center;
+  color: var(--blanco);
+  margin-top: 5rem;
 }
