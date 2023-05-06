@@ -102,6 +102,10 @@ img {
 .logo__bold {
     font-weight: 700;
 }
+
+span{
+  color: #743a08;
+}
 @media (min-width: 768px) {
     .navegacion {
         display: flex;
@@ -113,6 +117,7 @@ img {
     text-align: center;
     font-size: 1.8rem;
     color: var(--blanco);
+    font-weight: 600;
 }
 
 @media (min-width: 768px) {
